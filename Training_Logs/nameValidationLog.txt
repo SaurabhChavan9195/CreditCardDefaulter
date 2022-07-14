@@ -1,0 +1,23 @@
+2020-02-19/16:24:00		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_021119920_010222.xls
+2020-02-19/16:25:02		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_021119920_010222.xls
+2020-02-19/16:37:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/16:50:10		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/16:53:17		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/17:47:57		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/18:49:21		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/18:50:04		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2022-07-04/12:49:58		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/12:51:43		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/12:52:35		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/12:55:11		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/12:59:35		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/13:00:34		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/13:00:52		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/16:49:10		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/16:50:00		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/17:12:21		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/17:13:18		Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_seperator-checkpoint.ipynb'
+2022-07-04/17:13:37		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/17:27:01		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/17:29:25		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-07-04/17:37:39		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
